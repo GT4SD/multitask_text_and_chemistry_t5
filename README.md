@@ -78,4 +78,23 @@ The prompt templates that we have used for the 5 different tasks can be found in
 ---------
 ## Perform predictions using our models
 
-The two T5-small based variants of our model are available via the HuggignFace Hub in the following links: [multitask-text-and-chemistry-t5-small-standard](https://huggingface.co/GT4SD/multitask-text-and-chemistry-t5-small-standard) and  [multitask-text-and-chemistry-t5-small-augm](https://huggingface.co/GT4SD/multitask-text-and-chemistry-t5-small-augm). In the provided notebook (demo.ipynb), we present examples of how the model can be used for the 5 different tasks.  
+The two T5-small based variants of our model are available via the HuggignFace Hub in the following links: 
+
+* [multitask-text-and-chemistry-t5-small-standard](https://huggingface.co/GT4SD/multitask-text-and-chemistry-t5-small-standard)  
+* [multitask-text-and-chemistry-t5-small-augm](https://huggingface.co/GT4SD/multitask-text-and-chemistry-t5-small-augm) 
+
+In the provided notebook (demo.ipynb), we present examples of how the model can be used for the 5 different tasks.  
+
+
+---------
+
+## Citation
+
+```bibtex
+@article{christofidellis2023unifying,
+  title={Unifying Molecular and Textual Representations via Multi-task Language Modelling},
+  author={Christofidellis*, Dimitrios and Giannone*, Giorgio and Born, Jannis and Winther, Ole and Laino, Teodoro and Manica, Matteo},
+  journal={arXiv preprint arXiv:2301.12586},
+  year={2023}
+}
+```

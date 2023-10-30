@@ -1,4 +1,4 @@
-# [Multitask Text and Chemistry T5](https://arxiv.org/abs/2301.12586)
+# [Multitask Text and Chemistry T5](https://proceedings.mlr.press/v202/christofidellis23a.html)
 
 ![clm](https://github.com/GT4SD/multitask_text_and_chemistry_t5/blob/main/assets/clm_pipeline.png)
 
@@ -6,7 +6,7 @@
 > [Dimitrios Christofidellis*](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-DIC), [Giorgio Giannone*](https://georgosgeorgos.github.io/), [Jannis Born](https://research.ibm.com/people/jannis-born), [Ole Winther](https://olewinther.github.io), [Teodoro Laino](https://research.ibm.com/people/teodoro-laino), [Matteo Manica](https://research.ibm.com/people/matteo-manica)  
 > International Conference on Machine Learning (ICML), 2023
 
-[[paper](https://arxiv.org/abs/2301.12586)]
+[[paper](https://proceedings.mlr.press/v202/christofidellis23a.html)]
 [[gradio app](https://huggingface.co/spaces/GT4SD/multitask-text-and-chemistry-t5)]
 [[code](https://github.com/GT4SD/multitask_text_and_chemistry_t5)]
 
@@ -94,9 +94,15 @@ In the provided notebook (demo.ipynb), we present examples of how the model can 
 
 ```bibtex
 @article{christofidellis2023unifying,
-  title={Unifying Molecular and Textual Representations via Multi-task Language Modelling},
-  author={Christofidellis*, Dimitrios and Giannone*, Giorgio and Born, Jannis and Winther, Ole and Laino, Teodoro and Manica, Matteo},
-  journal={arXiv preprint arXiv:2301.12586},
-  year={2023}
+  title = 	 {Unifying Molecular and Textual Representations via Multi-task Language Modelling},
+  author =       {Christofidellis, Dimitrios and Giannone, Giorgio and Born, Jannis and Winther, Ole and Laino, Teodoro and Manica, Matteo},
+  booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
+  pages = 	 {6140--6157},
+  year = 	 {2023},
+  volume = 	 {202},
+  series = 	 {Proceedings of Machine Learning Research},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v202/christofidellis23a/christofidellis23a.pdf},
+  url = 	 {https://proceedings.mlr.press/v202/christofidellis23a.html},
 }
 ```

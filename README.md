@@ -93,7 +93,7 @@ In the provided notebook (demo.ipynb), we present examples of how the model can 
 ## Citation
 
 ```bibtex
-@article{christofidellis2023unifying,
+@inproceedings{christofidellis2023unifying,
   title = 	 {Unifying Molecular and Textual Representations via Multi-task Language Modelling},
   author =       {Christofidellis, Dimitrios and Giannone, Giorgio and Born, Jannis and Winther, Ole and Laino, Teodoro and Manica, Matteo},
   booktitle = 	 {Proceedings of the 40th International Conference on Machine Learning},
